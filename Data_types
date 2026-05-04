@@ -1,0 +1,27 @@
+Data_type: It means what kind of Data_type stored in varibles
+syntax= what your writing value
+compailer= is a software that translate high-level program code in machine
+
+Data-Types:
+
+Integer: whole numbers > 1,2,3,4,5 etc.....
+
+float: numbers with decimala > 4.15, 45.26, 58.25 etc...
+
+string: writen inside "name" = "balu", "age" = "27"
+
+Boolean: either true or false
+
+List: collection of things [1,2,3,4,5] we cange inside list
+
+tuple: collection of things but not overidden (1,2,3,4,5)
+
+dictionary: use only key_value pair {}
+student = {
+    "name": "balu"
+     "age": "27"
+}
+
+set: no repeated values , numbers {1,2,3,3,4,5}
+                          output {1,2,3,4,5}
+                          remove = "3" no duplicates.
