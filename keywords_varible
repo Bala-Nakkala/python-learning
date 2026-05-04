@@ -1,0 +1,33 @@
+keywords: it means python will take keywords from the keybord
+
+ex: and, or, not,true,false,while,else,if,fi,for,try,def etc.....
+
+Varibles: it means store data, what kind of data as you provide
+ex:
+"name" = "balu" 
+name= Varible > outside value is name
+balu= string >it means inside valu is balu
+"=" > assignment
+
+ex:
+ec2_instance= project-xyz_instance
+print(ec2_instance)
+output= project-xyz_instance
+
+Two types of Varible
+Local Varible, global Varible
+
+local Varibles: local Varible created inside a function
+it can be used only inside function
+ex:
+def_my_function():
+x=10
+print(x)
+
+global Varible: is created outside any function it can be accessed anywhere in the program
+ex:
+x=10
+def_my_function():
+print(x)
+
+
