@@ -10,3 +10,7 @@ def multiplication():
     mul = num1*num2
 def division():
     div = num1/num2
+
+
+module: bundle of functions is called module
+packages: bundle of modules is called packages
