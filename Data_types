@@ -12,7 +12,7 @@ string: writen inside "name" = "balu", "age" = "27"
 
 Boolean: either true or false
 
-List: collection of things [1,2,3,4,5] we change inside list
+List: collection of things [1,2,3,4,5] we can change inside list
 
 tuple: collection of things but not overidden (1,2,3,4,5)
 
