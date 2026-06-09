@@ -2,8 +2,6 @@
 
 As a DevOps Engineer, automation and integration are part of your daily life. Python, being one of the most flexible scripting languages, offers a wide range of libraries that can make your job easier, faster, and more reliable.
 
-In this video, we'll explore **8 powerful Python libraries every DevOps Engineer should know** — along with **practical examples** for each.
-
 ---
 
 ## 1. `boto3` – AWS SDK for Python
